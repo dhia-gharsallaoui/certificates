@@ -30,13 +30,13 @@ My collection of certificates
 
 [![IBM Supervised Machine Learning: Regression][9]][10]
 
-[9]:  certif_img\Supervised_Machine_Learning_Regression.jpg 
+[9]:  /certif_img/Supervised_Machine_Learning_Regression.jpg 
 [10]:  https://www.coursera.org/account/accomplishments/certificate/QES3PHFKJU5M "See Credential"
 
 ## Image Processing with Keras in Python
 [![Image Processing with Keras in Python][11]][12]
 
-[11]:  certif_img\data_camp_image_processing.jpg 
+[11]:  /certif_img/data_camp_image_processing.jpg 
 [12]:  https://www.datacamp.com/statement-of-accomplishment/course/d6128d72e0d7b926245f9646db542a6e9cb4086f "See Credential"
 
 ## Python 
@@ -48,23 +48,23 @@ My collection of certificates
 ## Data Visualization
 [![Data Visualization][15]][16]
 
-[15]:  certif_img\Data_Visualization.png 
+[15]:  /certif_img/Data_Visualization.png 
 [16]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/data-visualization "See Credential"
 
 ## Intro to Machine Learning
 [![Intro to Machine Learning][17]][18]
 
-[17]:  certif_img\Intro_to_Machine_Learning.png
+[17]:  /certif_img/Intro_to_Machine_Learning.png
 [18]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-machine-learning "See Credential"
 
 ## Intermediate Machine Learning
 [![Intermediate Machine Learning][19]][20]
 
-[19]:  certif_img\Intermediate_Machine_Learning.png
+[19]:  /certif_img/Intermediate_Machine_Learning.png
 [20]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intermediate-machine-learning "See Credential"
 
 ## Intro to Deep Learning
 [![Intro to Deep Learning][17]][18]
 
-[17]:  certif_img\Intro_to_Deep_Learning.png
+[17]:  /certif_img/Intro_to_Deep_Learning.png
 [18]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-deep-learning "See Credential"
