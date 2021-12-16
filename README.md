@@ -52,25 +52,35 @@ My collection of certificates
 [16]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/data-visualization "See Credential"
 
 ## Intro to Machine Learning
+Learn the core ideas in machine learning, and build your first models.
+
 [![Intro to Machine Learning][17]][18]
 
 [17]:  /certif_img/Intro_to_Machine_Learning.png
 [18]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-machine-learning "See Credential"
 
 ## Intermediate Machine Learning
+Handle missing values, non-numeric values, data leakage, pipelines, cross-validation and XGBoost.
+
 [![Intermediate Machine Learning][19]][20]
 
 [19]:  /certif_img/Intermediate_Machine_Learning.png
 [20]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intermediate-machine-learning "See Credential"
 
 ## Intro to Deep Learning
-[![Intro to Deep Learning][17]][18]
+Use TensorFlow and Keras to build and train neural networks for structured data.
 
-[17]:  /certif_img/Intro_to_Deep_Learning.png
-[18]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-deep-learning "See Credential"
+[![Intro to Deep Learning][21]][22]
+
+[21]:  /certif_img/Intro_to_Deep_Learning.png
+[22]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-deep-learning "See Credential"
+
+
 
 ## Intro to SQL 
-[![Intro to SQL][19]][20]
 Learn SQL for working with databases, using Google BigQuery.
-[19]:  /certif_img/Intro_to_SQL_BigQuery.png
-[20]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-sql "See Credential"
+
+[![Intro to SQL and BigQuery][23]][24]
+
+[23]:  /certif_img/Intro_to_SQL_BigQuery.png
+[24]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-sql "See Credential"
