@@ -68,3 +68,9 @@ My collection of certificates
 
 [17]:  /certif_img/Intro_to_Deep_Learning.png
 [18]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-deep-learning "See Credential"
+
+## Intro to SQL 
+[![Intro to SQL][19]][20]
+Learn SQL for working with databases, using Google BigQuery.
+[19]:  /certif_img/Intro_to_SQL_BigQuery.png
+[20]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-sql "See Credential"
