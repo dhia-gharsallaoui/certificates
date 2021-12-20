@@ -84,3 +84,11 @@ Learn SQL for working with databases, using Google BigQuery.
 
 [23]:  /certif_img/Intro_to_SQL_BigQuery.png
 [24]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-sql "See Credential"
+
+## Advanced SQL 
+Join, Union, Analytic Functions, Nested and Repeated Data and Efficient queries using Google BigQuery.
+
+[![Intro to SQL and BigQuery][25]][26]
+
+[25]:  /certif_img/Advanced_SQL.png
+[26]:  https://www.kaggle.com/learn/certification/dhiagharsallaoui/intro-to-sql "See Credential"
